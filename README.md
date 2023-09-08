@@ -1,4 +1,4 @@
-# horizontal_container
+# Praktikum_Minggu_2
 
 A new Flutter project.
 
